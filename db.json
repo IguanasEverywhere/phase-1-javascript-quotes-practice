@@ -1,19 +1,9 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "Expect nothing. Live frugally on surprise.",
-      "author": "Alice Walker"
-    },
-    {
       "id": 2,
       "quote": "Y’all is the best, most inclusive, second-person, plural pronoun in the English-speaking world.",
       "author": "Hannah Gadsby"
-    },
-    {
-      "id": 3,
-      "quote": "today a man on the street pointed to me & said ‘what the hell is that!?’ i wanted to turn around, tell him that i got this dress on sale & i got this body for free but you have been making me pay for both ever since.",
-      "author": "Alok Vaid Menon"
     },
     {
       "id": 4,
@@ -22,13 +12,8 @@
     },
     {
       "id": 5,
-      "quote": "We had better not enjoy the moment, but create the moment.",
+      "quote": "We had better not enjoy the moment, but create the moment. More stuff here.",
       "author": "Ai Weiwei"
-    },
-    {
-      "id": 6,
-      "quote": "If I didn't define myself for myself, I would be crunched into other people's fantasies for me and eaten alive.",
-      "author": "Audre Lorde"
     },
     {
       "id": 7,
@@ -58,14 +43,41 @@
   ],
   "likes": [
     {
-      "id": 1,
-      "quoteId": 1,
-      "createdAt": 1558524356
-    },
-    {
       "quoteId": 10,
       "id": 2,
       "createdAt": 1558524358
+    },
+    {
+      "quoteId": 10,
+      "id": 3
+    },
+    {
+      "quoteId": 11,
+      "id": 4
+    },
+    {
+      "quoteId": 2,
+      "id": 5
+    },
+    {
+      "quoteId": 2,
+      "id": 6
+    },
+    {
+      "quoteId": 2,
+      "id": 7
+    },
+    {
+      "quoteId": 9,
+      "id": 8
+    },
+    {
+      "quoteId": 4,
+      "id": 9
+    },
+    {
+      "quoteId": 4,
+      "id": 10
     }
   ]
 }
